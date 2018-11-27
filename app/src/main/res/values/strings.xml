@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Lets Vacation</string>
+
+    <string-array name="tourname">
+        <item>Windsor Castle</item>
+        <item>Menara Big Ben</item>
+        <item>Lake District</item>
+        <item>Tower Of London</item>
+        <item>Stonehenge</item>
+        <item>The Cotswolds</item>
+        <item>Warwick Castle</item>
+        <item>Durham Cathedral</item>
+        <item>Eden Project</item>
+        <item>York Minster</item>
+        <item>Piramida Giza</item>
+        <item>Original Starbucks di Seattle</item>
+        <item>The Wave, Arizona</item>
+        <item>Acapulco – Meksiko</item>
+        <item>Pulau Bali</item>
+        <item>Tutankhamun’s Tomb</item>
+    </string-array>
+
+    <string-array name="tourdetail">
+        <item>Windsor Castle merupakan benteng tertua dan terbesar di dunia yang bangunannya merupakan paduan arsitektur bergaya Victoria, Georgian, dan Gothic yang terletak di barat London. Salah satu tempat peristirahatan resminya Ratu Elizabeth 2 saat akhir pekan ini juga digunakan sebagai tempat hiburan pribadi dan kepentingan negara.</item>
+        <item>Rasanya belum afdol kalau pergi ke Inggris tapi belum mengunjungi Big Ben. Menara Big Ben yang adalah landmarknya London ini usianya sudah mencapai 150 tahun, loh. Kata Big Ben mengacu kepada bel yang beratnya 13 ton yang ada di dalam menara jam nya dan  menara ini seringkali muncul di film-film, salah satunya adalah film Mars Attack.</item>
+        <item>Kalau Traveler suka hiking dan kebetulan lagi ada di Cumbria, jangan lupa untuk mengunjungi taman nasional di Inggris yang bernama Lake District. Taman yang sudah dikunjungi oleh lebih dari 14 juta wisatawan ini mempunyai pemandangan yang cukup dramatis dan inspiratif sperti  danau, gunung dan bukit yang terbentuk  indah oleh erosi glasial.</item>
+        <item>Tower Of London, merupakan gedung yang sudah sering digunakan dalam berbagai fungsi yang berbeda. Gedung ini pernah digunakan sebagai penjara, istana, tempat penyimpanan harta, observatorium, sampai menagerie. Karena itulah bangunan menjadi bagian penting dalam sejarah Inggris.  Bangunan yang didirikan pada tahun 1078 di pusat kota London oleh William Sang Penakluk ini, mempunyai kisah “ “horror” karena tak lepas dari cerita hantu Anne Boleyn. Anne Boleyn adalah permaisuri Henry VIII yang tewas dipancung di Istana ini.</item>
+        <item>Stonehenge adalah bangunan prasejarah  yang sudah sangat populer di dunia yang berada di dekat Amesbury di Wiltshire, Inggris. Belum ada yang tahu bagaimana caranya bangunan yang sudah ada dari tahun 2500M ini didirikan. Namun para ahli meyakinkan bahwa tempat ini digunakan sebagai lokasi upacara keagamaan.</item>
+        <item>Cotswolds adalah sebuah desa yang cukup terkenal karena dibangun dengan  batu kapur yang berwarna madu dan mempunyai pemandangan yang indah. Disini juga ada padang rumput kapur yang langka, dan hutan beech tua yang berpadu dengan bangunan klasik kuno seperti Castle Combe, Chipping Norton, dan Tetbury. Selain itu, desa ini sering dijadikan lokasi syuting British seperti “The Casual Vacancy”, dan “Wolf Hall”.</item>
+        <item>Lagi-Lagi William Sang Penakluk membuat Castle,  yaitu Warwick Castle. Istana abad pertengahan ini didirikan pada tahun 1068 di Kota Warwick awalnya dibangun untuk dijadikan benteng sampai abad ke 17. Kastil  ini dibangun dengan gaya militer  pada  abad ke – 14. Namun, setelah abad ke – 17, bangunan ini berubah fungsi menjadi rumah negara nya Keluarga Grevile.  Setelah tahun 1978, kastil ini dijual dan akhirnya menjadi salah satu tempat wisata. Tiap tahun, tempat wisata ini dikunjungi oleh lebih dari setengah juta wisatawan.</item>
+        <item>Ada Norman terbesar di Inggris bahkan se-Eropa, namanya Durham Cathedral. Bangunan ini didirikan oleh William Of Calais pada tanggal 12 Agustus 1093 di kota Durham. Gedung dengan arsitektur klasik yang indah memiliki  tata letak yang mengagumkan. Dan berdasarkan BBC Nasional pada tahun 2001, Durham Cathedral telah menjadi bangunan terbaik yang sangat dicintai di Inggris.</item>
+        <item>Eden Project adalah komplek rumah kaca terbesar di dunia yang terletak di Cornwall, Inggris. Komplek ini terdiri dari beberapa rumah kaca yang besar yang berbentuk igloo dan dihuni oleh ribuan tanaman yang tumbuh di berbagai iklim dan lingkungan. Bangunan hasil rancangan Nicholas Grimshaw pada tahun 2000 ini sudah dibuka untuk umum sejak tahun 2003 Pukul 9 pagi hingga Pukul  6 sore.</item>
+        <item>Penasaran sama bangunan Katedral Gothik? Mendingan kunjungi York Minster deh yang merupakan Katedral Gothik terbesar di Eropa Utara. Gereja tertinggi di Inggris ini adalah Katedral Keuskupan York yang dibangun dari tahun 1230 – 1472 di York oleh Dean Of York. Jendela besar yang ada di dalamnya merupakan hamparan kaca patri terbesar pada abad pertengahan di dunia. Sekarang Katedral ini sudah menjadi salah satu tempat wisata di Inggris.</item>
+        <item>Mesir dikenal menjadi negeri pyramid karena saking banyaknya jumlah pyramid yang ada di negara ini. Sebagian besar pyramid dari total jumlah 118 buah pyramid dibangun di sepanjang sungai Nil. /n /n Peletakan pyramid di bantaran sungai Nil yang termasuk sungai terbesar dan terpanjang di dunia ini menunjukkan betapa pentingnya peran sungai Nil dalam kehidupan warga Mesir sejak sebelum Masehi hingga saat ini. Sejarah Piramida Mesir memiliki beberapa golongan berdasarkan besarnya ukuran bangunan. Dari ratusan piramida yang ada di Mesir, 30 buah di antaranya tergolong pyramid besar.</item>
+        <item>Bagi Anda yang senang ngopi di Starbucks, tahukah Anda gerai Starbucks paling pertama atau original yang dibuka? /n /n Original Starbucks adalah nama yang sering diberikan untuk gerai Starbucks pertama. Gerai ini didirikan tahun 1971 di daerah lain, lalu dipindahkan ke Pike Place Market di Downtown Seattle, Washington, Amerika Serikat.</item>
+        <item>The Wave, Arizona adalah formasi batu pasir yang terletak di Arizona, Amerika Serikat di dekat perbatasan utara dengan Utah.Formasi ini terletak di lereng Coyote Buttes di Pagar Canyon-Vermilion Cliffs Wilderness di Dataran Tinggi Colorado.</item>
+        <item>Acapulco de Juárez (bahasa Spanyol: [akapulko de xwaɾes]), biasa disebut Acapulco, adalah sebuah kota, kota dan pelabuhan utama di negara bagian Guerrero di pantai Pasifik Meksiko, 380 kilometer (240 mil) selatan Kota Meksiko. /n /n Acapulco terletak di teluk yang dalam dan setengah lingkaran dan telah menjadi pelabuhan sejak awal masa penjajahan sejarah Meksiko.Kota Acapulco adalah yang terbesar di negara bagian, jauh lebih besar daripada ibukota negara bagian Chilpancingo. Acapulco juga merupakan pantai terbesar di Meksiko dan kota resort Balneario. /n /n Kota ini merupakan salah satu resort pantai tertua di Meksiko, yang mulai terkenal pada tahun 1940 an hingga 1960 an sebagai liburan bagi bintang Hollywood dan jutawan.
+
+Acapulco masih terkenal dan masih menarik banyak turis, meski kebanyakan sekarang berasal dari Meksiko sendiri.</item>
+        <item>Bali memang menjadi incaran para wisatawan lokal bahkan dari mancanegara.
+
+Selain terdiri dari Pulau Bali, wilayah Provinsi Bali juga terdiri dari pulau-pulau yang lebih kecil di sekitarnya, yaitu Pulau Nusa Penida, Pulau Nusa Lembongan, Pulau Nusa Ceningan, Pulau Serangan dan Pulau Menjangan.</item>
+        <item>Tutankhamun (dieja dengan Tutankh- , -amen, -amon) adalah seorang Firaun Mesir dari dinasti ke-18 (memerintah antara 1332-1323 SM dalam kronologi konvensional), selama periode sejarah Mesir yang dikenal sebagai Kerajaan Baru atau kadang-kadang Periode Kekaisaran Baru. /n /n Sejak ditemukan jasadnya, ia disebut dalam bahasa sehari-hari sebagai King Tut. Nama aslinya, Tutankhaten, berarti “Living Image of Aten“, sementara Tutankhamun berarti “Living Image of Amun“. /n /n Dalam hieroglif, nama Tutankhamun biasanya ditulis Amin-tut-ankh, karena kebiasaan juru tulis yang menempatkan nama ilahi di awal sebuah ungkapan untuk menunjukkan penghormatan yang tepat. /n /n Tutankhamun adalah Firaun terkenal di dunia dan makamnya adalah yang terbaik serta terpelihara, disamping citra dan artefak yang terkait dan paling banyak dipamerkan.</item>
+    </string-array>
+</resources>
